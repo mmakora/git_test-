@@ -1,0 +1,12 @@
+
+
+The purpose of this document is so I can practice writing git commits directly from the terminal 
+
+
+
+
+
+
+:) 
+
+
